@@ -1,10 +1,4 @@
 # MiniCraft
 MiniCraft S3 is more fun, technology and adventure.
 
- 
-
-MiniCraft S3 daha çok eğlenceli, teknoloji ve macera barındırır.
-
- 
-
-MiniCraft S3 ist mehr Spaß, Technologie und Abenteuer.
+(ONLY MiniCraft S3 1.1.2 or newer version Please install the mod https://www.curseforge.com/minecraft/mc-mods/watermedia/files/5344871 after installing the modpack.)
