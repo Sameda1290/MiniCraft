@@ -1,3 +1,3 @@
 # MiniCraft
-MiniCraft S3 is more fun, technology and adventure.
+MiniCraft is more fun, technology and adventure.
 
